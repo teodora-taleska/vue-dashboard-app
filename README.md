@@ -23,6 +23,7 @@ The application is make with [Vue CLI](https://cli.vuejs.org/), which is a stand
   npm install
   npm run dev
 ```
+#### NOTE: The charts are created using the Chart.js library.
 
 ### Firebase: Project Setup
 For detailed information see [Cloud Firestore](https://firebase.google.com/docs/firestore).
