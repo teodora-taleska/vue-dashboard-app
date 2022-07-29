@@ -25,7 +25,7 @@ The application is make with [Vue CLI](https://cli.vuejs.org/), which is a stand
 ```
 ### NOTE: The charts on the dashboard page are created using the Chart.js library, and some of the styles are implemented by using the Bootstrap CSS framework.
 
-### Firebase: Project Setup
+## Firebase: Project Setup
 For detailed information see [Cloud Firestore](https://firebase.google.com/docs/firestore).
 * First a firebase project should be created
 * Then the firebase project should be connected to our app. To do that we create a web project
