@@ -1,4 +1,6 @@
 # Events 7 dashboard - Vue 3 & Firebase (Cloud Firestore)
+
+Link to website [link](https://teodora-taleska.github.io/vue-dashboard-app/)
 Internal web tool “Events7” (dashboard), designed for the Analytics team to define client events
 we want to track. For example if we want to track button clicks in our mobile app, the Analytics 
 team would go on the dashboard and define the event. The event definition consists of
